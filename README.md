@@ -1,2 +1,12 @@
-<h1>WebRTC Demo Project<h1>
-  <h2>npm run setup<h2>
+# WebRTC - Demo
+
+## Installation
+
+```
+npm i
+ ```
+
+### Run on Development environment
+ ```
+npm run devStart
+ ```
